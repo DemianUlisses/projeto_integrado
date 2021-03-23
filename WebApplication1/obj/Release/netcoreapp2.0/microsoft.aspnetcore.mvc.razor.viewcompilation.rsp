@@ -1,0 +1,17 @@
+C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApplication1
+--content-root=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Home\About.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Home\Contact.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Home\Index.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Shared\Error.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Shared\_Layout.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Usuarios\Create.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Usuarios\Delete.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Usuarios\Details.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Usuarios\Edit.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\Usuarios\Index.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\_ViewImports.cshtml
+--file=C:\Users\55319\Desktop\DotNetCore\Aula\Aula\WebApplication1\Views\_ViewStart.cshtml
